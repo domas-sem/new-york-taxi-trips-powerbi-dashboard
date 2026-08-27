@@ -70,8 +70,8 @@ Selecting a value in one visual filters and highlights related information acros
 
 This project was completed as a guided learning exercise using the following Power BI tutorials:
 
-1. [Power BI tutorial: NYC Taxi Trips dashboard](https://www.youtube.com/watch?v=Fvdx8rfiOcM&list=PLqeAtmpKFh-59yXxRn1w0WNdjKStps2Va&index=10)
-2. [Power BI tutorial: data model, measures, and report logic](https://www.youtube.com/watch?v=4ltnl-RNDu4&list=PLqeAtmpKFh-59yXxRn1w0WNdjKStps2Va&index=5)
+1. [Power BI tutorial: NYC Taxi Trips dashboard](https://www.youtube.com/watch?v=Fvdx8rfiOcM)
+2. [Power BI tutorial: data model, measures, and report logic](https://www.youtube.com/watch?v=4ltnl-RNDu4)
 
 The tutorials informed the data preparation, model structure, DAX measures, and analytical logic. I refined the final dashboard’s visual layout, colour palette, card styling, chart presentation, insight placement, and portfolio documentation.
 
